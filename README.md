@@ -7,6 +7,7 @@ Members : WAN MUHAMMAD ILHAN BIN WAN ZIL AZHAR 1211102908
 #=====================================================#
 
 #===================MEETINGS SUMMARY==================#
+
 Meeting 1
 
 Date : 17th May 2025
@@ -34,9 +35,20 @@ Finalised the app requirements, and use cases that are gonna be used in the repo
 **********************************************************
 Meeting 2
 
+Date : 20th May 2025
+Mode: Online
+Platform: Discord
+Participants: All 
+
+Agenda: Completing Tasks 1 to 3
+
+Work Done During The Meeting : 
+Completed Task 1 until Task 3. Completed Survey for task 4. Formatted and completed each task inside their own documents. 
+*********************************************************
+
 
 #=====================================================#
 
 #=======================MILESTONE=====================#
-
+# 20th May 2025 - Completed Task 1 - 3
 #=====================================================#
