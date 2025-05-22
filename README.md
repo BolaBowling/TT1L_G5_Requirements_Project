@@ -4,6 +4,7 @@ Leader  : AHMAD FAIZ BIN ANUAR 1211109154
 Members : WAN MUHAMMAD ILHAN BIN WAN ZIL AZHAR 1211102908
           MUHAMMAD AQIL BIN RAHMAT 1211107976
           MUHAMAD AIMAN BIN MOHD EHWAL 1211103064
+******************************
 
 Meeting 1
 
@@ -41,8 +42,8 @@ Agenda: Completing Tasks 1 to 3
 
 Work Done During The Meeting : 
 Completed Task 1 until Task 3. Completed Survey for task 4. Formatted and completed each task inside their own documents. 
-***************************
 
-#==============MILESTONE==========#
+****************************
+MILESTONE
 # 20th May 2025 - Completed Task 1 - 3
-#=================================#
+
