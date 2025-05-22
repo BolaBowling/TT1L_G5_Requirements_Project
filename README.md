@@ -1,12 +1,9 @@
-#=====================================================#
+
 GROUP   : TT1L Group 5
 Leader  : AHMAD FAIZ BIN ANUAR 1211109154 
 Members : WAN MUHAMMAD ILHAN BIN WAN ZIL AZHAR 1211102908
           MUHAMMAD AQIL BIN RAHMAT 1211107976
           MUHAMAD AIMAN BIN MOHD EHWAL 1211103064
-#=====================================================#
-
-#===================MEETINGS SUMMARY==================#
 
 Meeting 1
 
@@ -32,7 +29,7 @@ A - We are definitely using surveys for mass data gatherings. As for the second 
 
 Work Done During The Meeting : 
 Finalised the app requirements, and use cases that are gonna be used in the report. Chose the language and DBMS that the software is going to be built with. Clarified what exactly we are building and what the end product should look like.
-**********************************************************
+*****************************
 Meeting 2
 
 Date : 20th May 2025
@@ -44,11 +41,8 @@ Agenda: Completing Tasks 1 to 3
 
 Work Done During The Meeting : 
 Completed Task 1 until Task 3. Completed Survey for task 4. Formatted and completed each task inside their own documents. 
-*********************************************************
+***************************
 
-
-#=====================================================#
-
-#=======================MILESTONE=====================#
+#==============MILESTONE==========#
 # 20th May 2025 - Completed Task 1 - 3
-#=====================================================#
+#=================================#
