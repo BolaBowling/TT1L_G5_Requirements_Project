@@ -42,8 +42,36 @@ Agenda: Completing Tasks 1 to 3
 
 Work Done During The Meeting : 
 Completed Task 1 until Task 3. Completed Survey for task 4. Formatted and completed each task inside their own documents. 
+*****************************
+Meeting 3
 
+Date : 24th May 2025
+Mode: Online
+Platform: Discord
+Participants: All 
+
+Agenda: Completing Remaining Task (4 and SRS)
+
+Work Done During The Meeting : 
+1) Finished all the Use Case's Sequence Diagram.
+2) Finished Task 4 and SRS
+*****************************
+Meeting 4
+
+Date : 25th May 2025
+Mode: Online
+Platform: Discord
+Participants: All 
+
+Agenda: Formatting and Submitting
+
+Work Done During The Meeting : 
+1) Final Check on all the tasks and SRS
+2) Fixed the formatting and insert labels for tables and images
+3) Submitted Project Part 1
 ****************************
 MILESTONE
 # 20th May 2025 - Completed Task 1 - 3
+# 24th May 2025 - Completed Task 4 and SRS
+# 25th May 2025 - Submitted
 
